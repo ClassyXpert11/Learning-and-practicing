@@ -1,0 +1,2 @@
+Player,Difficulty,Letters Left
+Abdullah,Medium,0

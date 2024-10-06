@@ -1,0 +1,4 @@
+Player name: Jack
+Health: 100
+Mana: 1,000,000
+List of weapons: Sword, Dagger, Spear, Bow, Arrows and Shield
